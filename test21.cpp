@@ -41,6 +41,26 @@ int main(int argc, char* argv[])
 		i++;
 	}
 
+
+	// 0x0043FDBC + 1 = 0x0043FDBD
+	// 0x0043FDBC + 4 = 0x0043FDC0
+
+	struct s_test
+	{
+		int a, b, c;
+	} st[16];
+
+	s_test *pStruct = st;
+	i = 0;
+	while (i < 16)
+	{
+		pStruct->a = (15 - i);
+		pStruct->b = (31 - i);
+		pStruct->c = (47 - i);
+		pStruct++;
+		i++;
+	}
+
 	return 0;
 }
 
