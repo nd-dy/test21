@@ -17,6 +17,9 @@ int main(int argc, char* argv[])
 	{
 		unsigned char a[4];
 		int abcd;
+		int qq;
+		int qqq;
+		int qqqq;
 
 	} qq;
 
@@ -24,6 +27,9 @@ int main(int argc, char* argv[])
 	qq.a[1] = 1;
 	qq.a[2] = 2;
 	qq.a[3] = 3;
+	qq.qq = 55;
+	qq.qqq = 77;
+	qq.qqqq = 88;
 
 	int i;
 	int m[16];
