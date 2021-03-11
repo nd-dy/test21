@@ -25,6 +25,22 @@ int main(int argc, char* argv[])
 	qq.a[2] = 2;
 	qq.a[3] = 3;
 
+	int i;
+	int m[16];
+
+	for (i = 0; i < 16; i++)
+	{
+		m[i] = i;
+	}
+
+	int *p = m;
+	i = 0;
+	while (i < 16)
+	{
+		*p++ = (15-i);
+		i++;
+	}
+
 	return 0;
 }
 
