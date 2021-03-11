@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 	qq.a[3] = 3;
 	qq.qq = 55;
 	qq.qqq = 77;
-	qq.qqqq = 88;
+	qq.qqqq = 8888;
 
 	int i;
 	int m[16];
