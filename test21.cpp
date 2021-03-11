@@ -61,10 +61,6 @@ int main(int argc, char* argv[])
 		i++;
 	}
 
-	// st[i].a= ;
-	// st[i].b= ;
-	// st[i].c= ;
-
 	return 0;
 }
 
