@@ -71,8 +71,6 @@ int main(int argc, char* argv[])
 }
 
 
-// ssh-keygen -t rsa -b 4096
-
 // git clone https://// gitlab.com/t00576384/test21
 // git config --global user.email "nd@dy.kiev.ua"
 // git config --global user.name "Nadiia Yanushevska"
