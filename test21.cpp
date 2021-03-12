@@ -70,3 +70,28 @@ int main(int argc, char* argv[])
 	return 0;
 }
 
+
+// ssh-keygen -t rsa -b 4096
+
+// git clone https://// gitlab.com/t00576384/test21
+// git config --global user.email "nd@dy.kiev.ua"
+// git config --global user.name "Nadiia Yanushevska"
+// git add *
+// git commit -a -m "initital commit"
+// git push origin master
+// git commit -a -m "added pointers"
+// git push origin master
+// git commit -a -m "added union"
+// git push origin master
+// git commit -a -m "added loop with pointer"
+// git push origin master
+// git commit -a -m "added struct"
+// git push origin master
+// git commit -a -m "added remarks2"
+// git push origin master
+// git commit -a -m "removed remarks2"
+// git push origin master
+// git commit -a -m "modified union"
+// git push origin master
+// git commit -a -m "modified qq.qqqq"
+// git push origin master
