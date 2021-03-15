@@ -97,7 +97,7 @@ int main(int argc, char* argv[])
 // git clone https://gitlab.com/t00576384/test21
 // git remote add github https://github.com/nd-dy/test21
 
-// origin tps://gitlab.com/t00576384/test21 (fetch)
-// origin tps://gitlab.com/t00576384/test21 (push)
+// origin https://gitlab.com/t00576384/test21 (fetch)
+// origin https://gitlab.com/t00576384/test21 (push)
 // github https://github.com/nd-dy/test21 (fetch)
 // github https://github.com/nd-dy/test21 (push)
