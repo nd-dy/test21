@@ -93,3 +93,11 @@ int main(int argc, char* argv[])
 // git push origin master
 // git commit -a -m "modified qq.qqqq"
 // git push origin master
+
+// git clone https://gitlab.com/t00576384/test21
+// git remote add github https://github.com/nd-dy/test21
+
+// origin tps://gitlab.com/t00576384/test21 (fetch)
+// origin tps://gitlab.com/t00576384/test21 (push)
+// github https://github.com/nd-dy/test21 (fetch)
+// github https://github.com/nd-dy/test21 (push)
