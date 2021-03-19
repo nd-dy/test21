@@ -101,3 +101,7 @@ int main(int argc, char* argv[])
 // origin https://gitlab.com/t00576384/test21 (push)
 // github https://github.com/nd-dy/test21 (fetch)
 // github https://github.com/nd-dy/test21 (push)
+
+// git credential-manager uninstall
+// git credential-manager install
+
